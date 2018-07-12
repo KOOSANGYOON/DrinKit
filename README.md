@@ -35,3 +35,25 @@
 - 쉬운 `메뉴 검색`
 
 ---
+## Flow Drawing (초안)
+
+![Image](https://github.com/KOOSANGYOON/TIL/blob/master/TIL201807/flow.png?raw=true)
+
+---
+## Back End (초안)
+
+![Image](https://github.com/KOOSANGYOON/TIL/blob/master/TIL201807/drinkit.png?raw=true)
+
+---
+## Features
+
+- 까페 정보 제공
+- 음료 정보 제공
+- 사용자 음료 평가 기능
+  - 평점 매기기 (별점 주기)
+  - 후기 남기기
+- 메뉴 검색 기능
+  - 메뉴 이름 별 검색
+  - 까페 별 검색
+  
+---
