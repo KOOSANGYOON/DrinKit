@@ -45,6 +45,10 @@
 ![Image](https://github.com/KOOSANGYOON/TIL/blob/master/TIL201807/drinkit.png?raw=true)
 
 ---
+## 관계설정 (초안)
+![Image](https://github.com/KOOSANGYOON/TIL/blob/master/TIL201808/drinkit_diagram.png?raw=true)
+
+---
 ## Features
 
 - 까페 정보 제공
